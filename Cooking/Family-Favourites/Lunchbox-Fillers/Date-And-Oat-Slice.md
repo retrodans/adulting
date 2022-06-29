@@ -2,6 +2,8 @@
 title: "Date and Oat Slice"
 ---
 
+![Date Crumble Slice](https://whitworths.co.uk/wp-content/uploads/2021/08/Date-Crumble-Slice-Lifestyle.jpg)
+
 ## Ingredients
 
 | Name | Quantity |
