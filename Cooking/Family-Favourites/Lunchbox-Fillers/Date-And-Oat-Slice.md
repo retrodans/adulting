@@ -4,6 +4,17 @@ title: "Date and Oat Slice"
 
 ![Date Crumble Slice](https://whitworths.co.uk/wp-content/uploads/2021/08/Date-Crumble-Slice-Lifestyle.jpg)
 
+
+- [Ingredients](#ingredients)
+- [Method](#method)
+  - [Preperation](#preperation)
+  - [Make the oat mixture](#make-the-oat-mixture)
+  - [Cook the dates](#cook-the-dates)
+  - [Bake](#bake)
+- [Related Links](#related-links)
+
+---
+
 ## Ingredients
 
 | Name | Quantity |
