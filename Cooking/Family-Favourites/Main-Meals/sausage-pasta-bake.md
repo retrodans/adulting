@@ -5,7 +5,7 @@
 ## Ingredients
 
 - 1 pack of Sausages chopped
-- Mushroom
+- Veg (Mushrooms/Peas)
 - Pasta (~300g)
 - Cheese
 - 1 jar of Carbonara sauce
@@ -13,7 +13,7 @@
 ## Method
 
 - Preheat oven to 200°C/180°C fan
-- Cook sausages for ??? minutes
+- Cook sausages for 20-40 minutes
 - Cook pasta
 - Mix sausage, pasta, mushrooms
 - Bake for 10 minutes
