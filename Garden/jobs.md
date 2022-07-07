@@ -1,5 +1,5 @@
 ---
-title: "Fruit and Veg Jobs"
+title: "Garden Jobs"
 ---
 
 ## Sow (greenhouse)
@@ -26,8 +26,8 @@ title: "Fruit and Veg Jobs"
 
 | Month | Plant | Method |
 | --- | --- | --- |
-| tbc | Apple Tree | |
-| tbc | Pear Tree | |
+| Feb | Smoky Tree | |
+| Dec | Apple/Pear Trees | |
 
 ## Harvesting
 
@@ -38,4 +38,4 @@ title: "Fruit and Veg Jobs"
 | tbc | Spring Onion | |
 | tbc | Apples | |
 | tbc | Pears | |
-| tbc | Strawberries | |
+| June-July | Strawberries | |
