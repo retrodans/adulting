@@ -27,7 +27,13 @@ title: "Garden Jobs"
 | Month | Plant | Method |
 | --- | --- | --- |
 | Feb | Smoky Tree | |
-| Dec | Apple/Pear Trees | |
+| March | Bay | |
+| March | Hydrangea | Dead head |
+| March | Group 3 Clematis | Dead head |
+| August | Water Iris' | Split with spade |
+| September | Hollyhocks | |
+| Lavender | Hollyhocks | Flower stalks & 2.5cm of leaf growth |
+| Dec | Apple/Pear Trees (incl. crab apple) | |
 
 ## Harvesting
 

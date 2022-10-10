@@ -1,0 +1,8 @@
+site_name: Phandrill Docs
+theme:
+    name: material
+    logo: assets/logo.png
+site_dir: mkdocs_build/
+extra_css:
+    - mkdocs.css
+    - print.css

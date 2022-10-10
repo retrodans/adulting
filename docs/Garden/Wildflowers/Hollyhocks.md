@@ -1,0 +1,4 @@
+# Hollyhocks
+
+- Flowering:
+- Pruning: September

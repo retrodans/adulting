@@ -1,0 +1,3 @@
+mkdocs
+pathlib
+mkdocs-material
