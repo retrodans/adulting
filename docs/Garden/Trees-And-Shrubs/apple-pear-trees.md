@@ -7,9 +7,22 @@ title: "Apple and Pear Trees"
 ## Maintenance
 
 - Desired height: `tbc`
-- When to prune: Winter (December)
+- When to prune:
+  - Standard - Summer (September)
+  - If overgrown - Winter (January)
 - How to Prune: `tbc`
 - Mulch: No
+
+## Summer Pruning
+
+## Winter Pruning
+
+- For when summer pruning is forgotten, or the tree has gotten out of control.
+- Focus on:
+  - Ventilation
+  - Reduce height
+- Remember that
+  - It will grow more in Spring
 
 ## Troubleshooting
 
@@ -17,4 +30,4 @@ title: "Apple and Pear Trees"
 
 ## Further Reading
 
-- https://www.woodlandtrust.org.uk/blog/2018/02/when-to-prune-fruit-trees/
+- https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons
