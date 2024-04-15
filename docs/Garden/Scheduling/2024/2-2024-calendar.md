@@ -9,40 +9,39 @@ title: "2024"
 - [x] Shopping
   - [x] Potatoes
 - [x] Chit potatoes in shed
-- [ ] Overview and start calendar
-- [ ] Driveway
-- [ ] Fix bed C
+- [x] Overview and start calendar
+- [x] Driveway
 
 **March**
 
-- [ ] Shopping
-  - [ ] Manure bags x 3
-  - [ ] Seeds
+- [x] Shopping
+  - [x] Manure bags x 3
+  - [x] Seeds
   - [x] Greenhouse
-- [ ] Maintenance
-  - [ ] manure on all raised beds (1/2 bag per raised bed)
-  - [ ] Repair the raised bed (plan, shop, do)
 - [ ] Sow (direct)
   - [ ] potatoes (do before manure is added)
   - [ ] Lettuce
   - [ ] Carrots
   - [ ] Peas
-- [ ] Sow (indoors)
-  - [ ] Parsley
-  - [ ] Chives
-  - [ ] Kale
-  - [ ] Oregano
-  - [ ] Cucumber
-  - [ ] Tomato
-  - [ ] Parsley
-  - [ ] Basil
-- [ ] Complete calendar
+- [x] Sow (indoors)
+  - [x] Parsley
+  - [x] Chives
+  - [x] Kale
+  - [x] Oregano
+  - [x] Cucumber
+  - [x] Tomato
+  - [x] Parsley
+  - [x] Basil
 
 **April**
 
 - [ ] Maintenance
-  - [ ] Mow lawn
-  - [ ] install greenhouse
+  - [ ] manure on all raised beds (1/2 bag per raised bed)
+  - [ ] Repair the raised bed (plan, shop, do)
+- [ ] Complete calendar
+- [x] Maintenance
+  - [x] Mow lawn
+  - [x] install greenhouse
 - [ ] Sow (greenhouse) 
   - [ ] French Beans
 - [ ] Sow (direct)
