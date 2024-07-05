@@ -38,10 +38,12 @@ title: "2024"
 - [ ] Maintenance
   - [ ] manure on all raised beds (1/2 bag per raised bed)
   - [ ] Repair the raised bed (plan, shop, do)
+  - [ ] Summer prune fruit trees (cut new shoots over 20cm (8in) long and growing from previously pruned side-shoots or spurs. Cut these new shoots back to one leaf beyond the basal cluster. Also feed with "blood, fish and bonemeal" mix
 - [ ] Complete calendar
 - [x] Maintenance
   - [x] Mow lawn
   - [x] install greenhouse
+  - [ ] 
 - [ ] Sow (greenhouse) 
   - [ ] French Beans
 - [ ] Sow (direct)
@@ -53,7 +55,8 @@ title: "2024"
 
 - [ ] Maintenance
   - [ ] Mow lawn
-- [ ] Sow (greenhouse) 
+  - [ ] 
+  - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
   - [ ] Swede
@@ -109,7 +112,9 @@ title: "2024"
 
 - [ ] Maintenance
   - [ ] Final mow
-  - [ ] When the top growth dies back in autumn, remove the dead leaves to expose the crown to frost - this will help break dormancy and ensure a good crop of stalks the following year.
+  - [ ] Rhubarb - When the top growth dies back in autumn, remove the dead leaves to expose the crown to frost - this will help break dormancy and ensure a good crop of stalks the following year.
+  - [ ] Fruit trees - Remove stems which are not producing fruit
+  - [ ] Prune fruit trees
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
