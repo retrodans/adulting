@@ -97,6 +97,7 @@ title: "2024"
 
 - [ ] Maintenance
   - [ ] Mow lawn
+  - [ ] 
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
@@ -108,6 +109,7 @@ title: "2024"
 
 - [ ] Maintenance
   - [ ] Final mow
+  - [ ] When the top growth dies back in autumn, remove the dead leaves to expose the crown to frost - this will help break dormancy and ensure a good crop of stalks the following year.
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
