@@ -43,6 +43,7 @@ title: "2024"
 - [x] Maintenance
   - [x] Mow lawn
   - [x] install greenhouse
+  - [ ] Mulching: Fruit trees
   - [ ] 
 - [ ] Sow (greenhouse) 
   - [ ] French Beans
