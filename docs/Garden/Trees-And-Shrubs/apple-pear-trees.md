@@ -30,4 +30,5 @@ title: "Apple and Pear Trees"
 
 ## Further Reading
 
-- https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons
+- New tree pruning: https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons
+- Old tree pruning: https://www.rhs.org.uk/fruit/apples/pruning-established-cordons
