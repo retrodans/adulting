@@ -15,12 +15,6 @@ Previous year:
 - Garlic (Garcua)
 - Onion (Autumn Champion)
 
-Some shopping
-
-- Obelisks for courgette and gherkins
-- Automatic watering system
-- Seeds
-
 | Group      | Crop                | Seeds?  |
 | ---------- | ------------------- | ------- |
 | G. Manure  | Phacelia            |    x    |
