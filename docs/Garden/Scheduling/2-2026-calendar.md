@@ -18,14 +18,16 @@ Missed January
   - [ ] Plant magazines
   - [ ] Obelisks
   - [ ] Automatic watering system
+  - [ ] Plug trays
 - [ ] Maintenance
   - [ ] Driveway weeding
   - [ ] Prepare salad bed
   - [ ] Tidy up greenhouse
-- [ ] Sow (Greenhouse)
-  - [ ] 
+- [ ] Sow (Greenhouse/Windowsill)
+  - [ ] Herbs (Chives, Oregano, Basil, Parsley, Coriander)
+  - [ ] Tomatoes
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Pak Choi
 - [ ] Harvest
   - [ ] Sprouts
 
@@ -34,9 +36,12 @@ Missed January
 - [ ] Maintenance
   - [ ] Prepare root veg bed
 - [ ] Sow (direct)
-  - 
+  - [ ] Beetroot
+  - [ ] Pak Choi
+  - [ ] Green manure (beds C/F)
 - [ ] Sow (Greenhouse)
-  - [ ] 
+  - [ ] Sweetcorn
+  - [ ] Courgette
 - [ ] Harvest
   - [ ] Rhubarb (if forced) - leave ~4 stalks
 
@@ -49,11 +54,17 @@ Missed January
   - [ ] Mow lawn
   - [ ] Mulching: Fruit trees
 - [ ] Sow (greenhouse) 
-  - [ ] 
+  - [ ] Pumpkin
+  - [ ] Cucamelon
+  - [ ] Gherkin
+  - [ ] Cucumber
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Romaine/Cos lettuce
+  - [ ] Beetroot
+  - [ ] Pak Choi
+  - [ ] Carrots
 - [ ] Harvest
-  - [ ] 
+  - [ ] Pak Choi
 
 **May**
 
@@ -61,14 +72,26 @@ Missed January
   - [ ] Mow lawn
   - [ ] Gardeners world magazine with 241 card
   - [ ] Fertilise rhubarb with "All Purpose"
+  - [ ] Dig in green manure
 - [ ] Sow (greenhouse) 
-  - [ ] 
+  - [ ] Squash
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Romaine/Cos lettuce
+  - [ ] Swede
+  - [ ] Romaine/Cos lettuce
+  - [ ] Beetroot
+  - [ ] Pak Choi
 - [ ] Plant out
-  - [ ] 
+  - [ ] Oregano
+  - [ ] Parsley
+  - [ ] Coriander
+  - [ ] Basil
+  - [ ] Chives
+  - [ ] Sweetcorn
+  - [ ] Courgette
+  - [ ] Cucamelon (if ready)
 - [ ] Harvest
-  - [ ] 
+  - [ ] Pak Choi
 
 **June**
 
@@ -77,11 +100,18 @@ Missed January
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Romaine/Cos lettuce
+  - [ ] Beetroot
+  - [ ] Pak Choi
 - [ ] Plant out
-  - [ ] 
+  - [ ] Pumpkin
+  - [ ] Gherkin
+  - [ ] Cucumber
+  - [ ] Squash (late)
 - [ ] Harvest
-  - [ ] 
+  - [ ] Pak Choi
+  - [ ] Beetroot
+  - [ ] Carrots (until November)
 
 **July**
 
@@ -92,9 +122,17 @@ Missed January
 - [ ] Plan out
   - [ ] 
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Romaine/Cos lettuce
+  - [ ] Beetroot
+  - [ ] Pak Choi
 - [ ] Harvest
-  - [ ] 
+  - [ ] Pak Choi
+  - [ ] Beetroot
+  - [ ] Carrots (until November)
+  - [ ] Gherkin
+  - [ ] Cucumber
+  - [ ] Squash (until October)
+  - [ ] Tomatoes
 
 **August**
 
@@ -103,9 +141,15 @@ Missed January
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Pak Choi
 - [ ] Harvest
-  - [ ] 
+  - [ ] Pak Choi
+  - [ ] Beetroot
+  - [ ] Carrots (until November)
+  - [ ] Gherkin
+  - [ ] Cucumber
+  - [ ] Squash (until October)
+  - [ ] Tomatoes
 
 **September**
 
@@ -115,9 +159,16 @@ Missed January
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Pak Choi
 - [ ] Harvest
-  - [ ] 
+  - [ ] Swede (until Feb)
+  - [ ] Pak Choi
+  - [ ] Beetroot
+  - [ ] Carrots (until November)
+  - [ ] Gherkin
+  - [ ] Cucumber
+  - [ ] Squash (until October)
+  - [ ] Tomatoes
 
 **October**
 
@@ -131,9 +182,16 @@ Missed January
 - [ ] Sow (greenhouse) 
   - [ ] 
 - [ ] Sow (direct)
-  - [ ] 
+  - [ ] Pak Choi
 - [ ] Harvest
-  - [ ] 
+  - [ ] Swede (until Feb)
+  - [ ] Pak Choi
+  - [ ] Beetroot
+  - [ ] Carrots (until November)
+  - [ ] Pumpkin
+  - [ ] Cucumber
+  - [ ] Squash (until October)
+  - [ ] Tomatoes
 
 **November**
 
@@ -146,9 +204,14 @@ Missed January
 - [ ] Sow (direct)
   - [ ] 
 - [ ] Harvest
-  - [ ] 
+  - [ ] Swede (until Feb)
+  - [ ] Pak Choi
+  - [ ] Carrots (until November)
 
 **December**
+
+Harvest Swede (until Feb)
+Harvest Pak Choi
 
 - [ ] Maintenance
   - [ ] 
