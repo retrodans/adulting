@@ -42,6 +42,7 @@ Missed January
 - [ ] Sow (Greenhouse)
   - [ ] Sweetcorn
   - [ ] Courgette
+  - [ ] Broad beans
 - [ ] Harvest
   - [ ] Rhubarb (if forced) - leave ~4 stalks
 
@@ -90,6 +91,7 @@ Missed January
   - [ ] Sweetcorn
   - [ ] Courgette
   - [ ] Cucamelon (if ready)
+  - [ ] Broad beans
 - [ ] Harvest
   - [ ] Pak Choi
 
